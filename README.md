@@ -6,10 +6,6 @@ This game is about to escape from dungeon by using multiple characters stepping 
 
 https://github.com/Sairaii/PuzzleGame/assets/74638474/a47c454e-c3c1-459c-9960-45fa1860a3ae
 
-This Course refers to:
-
-https://www.udemy.com/course/unreal-engine-blueprints-the-ultimate-developer-course/
-
 
 # Basic Controls
 * Left mouse click the character you want to and click the target to destination.
